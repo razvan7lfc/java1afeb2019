@@ -1,0 +1,1 @@
+public class C2 <A, B>
